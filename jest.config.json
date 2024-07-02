@@ -22,5 +22,6 @@
       "./src/styles",
       "./src/libs/days",
       "./__tests__/coverage"
-    ]
+    ],
+    "coverageDirectory": "./__tests__/coverage"
   }
